@@ -57,7 +57,7 @@ Header requerido en Postman:
 
 Authorization: Bearer <token>
 
-📌 Endpoints principales
+ Endpoints principales
 
 Autenticación
 
